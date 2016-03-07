@@ -89,6 +89,7 @@ footer {
 figure {
   float: right;
   width: 300px;
+  margin-right: -150px;
 
 }
 
@@ -101,4 +102,15 @@ blockquote {
   width: 300px;
   font-size: 1.5rem;
   color: #666;
+}
+
+main::first-letter {
+  font-size: 5rem;
+  float: left;
+  width: 300px;
+  background-color: #666;
+  color: #fff;
+  font-style: normal;
+  padding: 15px;
+  margin-left: -45px;
 }
