@@ -102,6 +102,8 @@ blockquote {
   width: 300px;
   font-size: 1.5rem;
   color: #666;
+  margin-left: -150px;
+  text-align: right;
 }
 
 main::first-letter {
